@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/graph-visualizer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/graph-visualizer/static/js/main.f01e828d.chunk.js",
+    "main.js.map": "/graph-visualizer/static/js/main.f01e828d.chunk.js.map",
+    "runtime-main.js": "/graph-visualizer/static/js/runtime-main.d201b61a.js",
+    "runtime-main.js.map": "/graph-visualizer/static/js/runtime-main.d201b61a.js.map",
+    "static/js/2.aa53714a.chunk.js": "/graph-visualizer/static/js/2.aa53714a.chunk.js",
+    "static/js/2.aa53714a.chunk.js.map": "/graph-visualizer/static/js/2.aa53714a.chunk.js.map",
+    "static/js/3.b32b49b4.chunk.js": "/graph-visualizer/static/js/3.b32b49b4.chunk.js",
+    "static/js/3.b32b49b4.chunk.js.map": "/graph-visualizer/static/js/3.b32b49b4.chunk.js.map",
+    "index.html": "/graph-visualizer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/graph-visualizer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aa53714a.chunk.js.LICENSE.txt": "/graph-visualizer/static/js/2.aa53714a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/graph-visualizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d201b61a.js",
+    "static/js/2.aa53714a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f01e828d.chunk.js"
+  ]
+}
